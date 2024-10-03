@@ -1,1 +1,1 @@
-# project_landing-page
+Project to recreate a given webpage design using HTML and CSS skills learned in The Odin Project "Foundations" course.
